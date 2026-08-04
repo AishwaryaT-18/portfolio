@@ -13,10 +13,9 @@ const profile = {
 
     phone: "+91 XXXXX XXXXX",
 
-    github: "https://github.com/YOUR_GITHUB",
+    github: "https://github.com/your-github-username",
 
-    linkedin: "https://linkedin.com/in/YOUR_LINKEDIN",
-
+    linkedin: "https://www.linkedin.com/in/your-linkedin-id",
     resume: `${import.meta.env.BASE_URL}Aishwarya_T_Software_Engineer.pdf`,
 
     image: `${import.meta.env.BASE_URL}aishwarya.jpg`,
