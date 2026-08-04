@@ -1,0 +1,18 @@
+:root {
+
+  --primary:#2563eb;
+  --secondary:#0f172a;
+
+  --white:#ffffff;
+
+  --light:#f8fafc;
+
+  --dark:#0f172a;
+
+  --text:#475569;
+
+  --glass:rgba(255,255,255,.15);
+
+  --shadow:0 15px 40px rgba(0,0,0,.15);
+
+}

@@ -1,0 +1,61 @@
+.education{
+
+    background:#020617;
+
+    padding:80px 0;
+
+}
+
+
+.education-container{
+
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:25px;
+
+}
+
+
+.education-card{
+
+    background:#111827;
+
+    border:1px solid #1e293b;
+
+    padding:30px;
+
+    border-radius:15px;
+
+}
+
+
+.education-card h3{
+
+    color:#38bdf8;
+
+}
+
+
+.education-card h4{
+
+    color:white;
+
+    margin:15px 0;
+
+}
+
+
+.education-card p{
+
+    color:#94a3b8;
+
+}
+
+
+.education-card span{
+
+    color:#cbd5e1;
+
+}
