@@ -1,7 +1,7 @@
 
 const profile = {
 
-    name: "Aishwarya Tuppad",
+    name: "Aishwarya T",
 
     role: "Software Engineer",
 
