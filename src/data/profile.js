@@ -5,7 +5,7 @@ const profile = {
 
     role: "Software Engineer",
 
-    tagline: "Java | Spring Boot | PHP | MySQL | React",
+    tagline: "Python |Java | PHP | MySQL | React",
 
     location: "Bengaluru, India",
 
@@ -13,9 +13,9 @@ const profile = {
 
     phone: "+91 XXXXX XXXXX",
 
-    github: "https://github.com/your-github-username",
+    github: "https://github.com/AishwaryaT-18",
 
-    linkedin: "https://www.linkedin.com/in/your-linkedin-id",
+    linkedin: "https://www.linkedin.com/in/aishwarya-t-31174a238/",
     resume: `${import.meta.env.BASE_URL}Aishwarya_T_Software_Engineer.pdf`,
 
     image: `${import.meta.env.BASE_URL}aishwarya.jpg`,
