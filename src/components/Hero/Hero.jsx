@@ -25,7 +25,7 @@ function Hero() {
                     </h2>
 
                     <p className="tagline">
-                        Java | Spring Boot | React | PHP | MySQL
+                        Java | Python | React | PHP | MySQL
                     </p>
 
                     <p className="description">

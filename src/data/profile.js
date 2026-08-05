@@ -21,7 +21,7 @@ const profile = {
     image: `${import.meta.env.BASE_URL}aishwarya.jpg`,
 
     description:
-        "Software Engineer with experience in developing ERP applications using PHP, MySQL, JavaScript and currently expanding expertise in Java, Spring Boot and React. Passionate about building scalable web applications and solving real-world problems."
+        "Software Engineer with experience in developing ERP applications using PHP, MySQL, JavaScript and currently expanding expertise in Java, Python and React. Passionate about building scalable web applications and solving real-world problems."
 
 }
 

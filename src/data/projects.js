@@ -36,29 +36,31 @@ const projects = [
 
         tech:[
             "Python",
-            "OpenCV",
-            "PCA",
+            "Logistic Regression",
+            "SVM Classifier",
             "Flask"
         ],
 
         description:
-        "Deep learning based medical image classification project for detecting brain tumors from MRI images.",
+        "Machine learning based medical image classification project for detecting brain tumors from MRI images.",
          View:
         "https://github.com/AishwaryaT-18/Brain-Tumor-Classification"
     },
 
 
     {
-        title:"Invoice Management REST API",
+        title:"Developer Portfolio Website",
 
         tech:[
-            "Python",
-            "Flask",
-            "MySQL"
+            "React",
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "GitHub Pages"
         ],
 
         description:
-        "Backend REST API application for invoice management with database integration and CRUD operations."
+        "•	Designed and developed a responsive personal portfolio website to showcase professional experience, technical skills, projects, certifications, and contact information."
     }
 
 

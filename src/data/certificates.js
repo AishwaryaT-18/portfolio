@@ -24,11 +24,6 @@ const certificates = [
         year: "2024"
     },
 
-    {
-        title: "Power BI Workshop",
-        issuer: "Workshop Certificate",
-        year: "2024"
-    }
 
 ];
 

@@ -22,7 +22,7 @@ const skills = [
     {
         category: "Backend",
         items: [
-            "Spring Boot",
+            "Python",
             "REST API",
             "Core PHP"
         ]
@@ -32,7 +32,7 @@ const skills = [
         category: "Database & Tools",
         items: [
             "MySQL",
-            "PostgreSQL",
+           
             "Git",
             "Postman"
         ]
